@@ -1,5 +1,14 @@
 {
-    "scripts": {
-      "test": "jest"
-    }
-  }
+  "name": "jest-test",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "description": ""
+}
